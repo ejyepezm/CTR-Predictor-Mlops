@@ -79,3 +79,6 @@ requirements_pre.txt
 ##### Including files #####
 !.rtd-environment.yml
 !.gitignore
+
+github_user
+github_user.pub
